@@ -1,2 +1,2 @@
-# Budgeting
-Some modelling for budgets.
+# IDEAFinance
+Allows for financial records that follow the IDEA system.
